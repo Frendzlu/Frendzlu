@@ -8,5 +8,6 @@ i [ta na github pages](https://frendzlu.github.io/)
 [artykuł, który mnie zainspirował](https://www.researchgate.net/publication/288162668_Computational_music_theory)
 
 ### Linki
-[link1](https://docs.google.com/document/u/0/d/1PUTACMBpR1tL-mOwPDJgoqk5nj1YHCsXadoJUdWb-A0/mobilebasic)
-[link2](https://drive.google.com/file/d/16ZZzV6JRQ74TKy6uDcPKomXvz9WLOTku/view?usp=drivesdk)
+[notatki Maćka](https://docs.google.com/document/u/0/d/1PUTACMBpR1tL-mOwPDJgoqk5nj1YHCsXadoJUdWb-A0/mobilebasic)\
+[notatki Kempixa](https://drive.google.com/file/d/16ZZzV6JRQ74TKy6uDcPKomXvz9WLOTku/view?usp=drivesdk) \
+[notatki 3](https://drive.google.com/file/d/16glTw5c1KrOPI9jBHej0YRondMAOt_l8/view?usp=drivesdk)
